@@ -37,29 +37,23 @@ tags:
 ## **RESARCH EXPERIENCE**
 - **Topic**: *Machine Learning Methods on Carrier Frequency Synchronizations for OFDM and non-OFDM systems*, Aug 2018-Present
 
-With the fast development of machine learning and neural network, traditional communication is heading to a stage where intelligent transceivers are brought to reality. 
-While doing carrier frequency synchronization, we take effort to bring machine learning method, especially neural network to train the synchronization units so that it could intelligently recover the frequency offsets.
+	With the fast development of machine learning and neural network, traditional communication is heading to a stage where intelligent transceivers are brought to reality. While doing carrier frequency synchronization, we take effort to bring machine learning method, especially neural network to train the synchronization units so that it could intelligently recover the frequency offsets.
 
 - **Topic**: *Maximum-a-posteriori (MAP) Based Carrier Frequency Synchronization for MIMO System*, Aug 2016-Jul 2018
 
-For MIMO systems, carrier frequency offset (CFO) is usually the first to be estimated and recovered. 
-We investigate the flat-fading channel and propose a MAP based carrier frequency offset algorithm that takes both prior knowledge of CFO distribution and maximum likelihood based CFO estimate to estimate the CFO.
+	For MIMO systems, carrier frequency offset (CFO) is usually the first to be estimated and recovered. We investigate the flat-fading channel and propose a MAP based carrier frequency offset algorithm that takes both prior knowledge of CFO distribution and maximum likelihood based CFO estimate to estimate the CFO.
 
 - **Topic**: *Module Based Design of Communication Systems on FPGA Based Software Defined Radio*, Aug 2015-Aug 2016
 
-The software defined radio (SDR) has become a popular platform for prototyping digital communication systems. 
-We propose a complete module-based communication system with all necessary components for transmitter and receiver, designed and targeted on an FPGA-based SDR. All DSP units are implement on the FPGAs of the SDR platform.
+	The software defined radio (SDR) has become a popular platform for prototyping digital communication systems. We propose a complete module-based communication system with all necessary components for transmitter and receiver, designed and targeted on an FPGA-based SDR. All DSP units are implement on the FPGAs of the SDR platform.
 
 - **Topic**: *Localization Inside Human Body Using TOA Techniques*, May 2014-May 2015
 
-We work on localizing the RF implant device such as WCE, etc. Time of Arrival is now mainly selected topic. 
-The software we are using is SEMCAD X from SPEAG, which provides a standard medical phantom family of human body with more than a hundred organs. 
-The goal is to find and validate the ranging error of RF localization algorithms both in homogeneous tissue and heterogeneous tissue.
+	We work on localizing the RF implant device such as WCE, etc. Time of Arrival is now mainly selected topic. The software we are using is SEMCAD X from SPEAG, which provides a standard medical phantom family of human body with more than a hundred organs. The goal is to find and validate the ranging error of RF localization algorithms both in homogeneous tissue and heterogeneous tissue.
 
 - **Topic**: *Measurement of Motion of Wireless Capsule Endoscope Using Image Techniques*, Oct 2013-Apr 2014
 
-We acquired the images taken by wireless capsule endoscope (WCE) inside human gastrointestinal tract, and measure the motion of WCE including rotation and displacement. 
-In this research, we developed a new approach using mutual information method, a more global and robust algorithm other than those based on local information to achieve more efficient results with better performance.
+	We acquired the images taken by wireless capsule endoscope (WCE) inside human gastrointestinal tract, and measure the motion of WCE including rotation and displacement. In this research, we developed a new approach using mutual information method, a more global and robust algorithm other than those based on local information to achieve more efficient results with better performance.
 
 ## **PUBLICATIONS**
 - **Mingda Zhou**, Guanqun Bao, and Kaveh Pahlavan, "*Measurement of Motion Detection of Wireless Capsule Endoscope Inside Large Intestine*", EMBC'14, Chicago, USA, August 26-30, 2014.
