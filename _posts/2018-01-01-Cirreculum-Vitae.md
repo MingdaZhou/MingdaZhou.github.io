@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Cirreculum Vitae
+title:      Curriculum Vitae
 author:     Mingda
 header-img: /img/none.jpg
 catalog: true
 tags:
-    - Cirreculum Vitae
+    - Curriculum Vitae
 ---
 
 ## **EDUCATION** 
