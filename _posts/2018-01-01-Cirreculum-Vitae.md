@@ -11,12 +11,16 @@ tags:
 ## **EDUCATION** 
 
 - Worcester Polytechnic Institute (WPI), Worcester, MA
-Doctor of Philosophy in Electrical and Computer Engineering, May 2019
-Current GPA: 4.0/4.0
+
+	Doctor of Philosophy in Electrical and Computer Engineering, May 2019
+
+	Current GPA: 4.0/4.0
 
 - Worcester Polytechnic Institute (WPI), Worcester, MA, USA
-Master of Science in Electrical and Computer Engineering, May 2015
-GPA: 3.9/4.0
+
+	Master of Science in Electrical and Computer Engineering, May 2015
+	
+	GPA: 3.9/4.0
 
 - Xi’an Jiaotong University, Xi’an, China
 Bachelor of Science in Automation, July 2013
@@ -24,9 +28,9 @@ GPA:3.3/4.0
 
 ## **SKILLS** 
 - Programming Languages: C/C++, Verilog HDL, Java, Python, SQL
--Software & tools: MATLAB, Visual Studio, Vivado, GNU Radio, My SQL
--Wireless & communication knowledge: software defined radio (SDR), digital communication system, body area network, IEEE 802 family, wireless localization, channel modeling
--Hardware knowledge: FPGA, pipelining and reconfigurable design
+- Software & tools: MATLAB, Visual Studio, Vivado, GNU Radio, My SQL
+- Wireless & communication knowledge: software defined radio (SDR), digital communication system, body area network, IEEE 802 family, wireless localization, channel modeling
+- Hardware knowledge: FPGA, pipelining and reconfigurable design
 
 ## **RESARCH EXPERIENCE**
 - Topic: Machine Learning Methods on Carrier Frequency Synchronizations for OFDM and non-OFDM systems, Aug 2018-Present
