@@ -3,13 +3,14 @@ layout:     post
 title:      Cirreculum Vitae
 date:       2018-01-01
 author:     Mingda
+header-img: false
 catalog: false
 tags:
     - Cirreculum Vitae
 ---
 ## Mingda's Curreculum Vitae
 
-#EDUCATION 
+###EDUCATION 
 
 Worcester Polytechnic Institute (WPI), Worcester, MA
 Doctor of Philosophy in Electrical and Computer Engineering, May 2019
@@ -23,7 +24,7 @@ Xi’an Jiaotong University, Xi’an, China
 Bachelor of Science in Automation, July 2013
 GPA:3.3/4.0
 
-#SKILLS 
+###SKILLS 
 	Programming Languages: C/C++, Verilog HDL, Java, Python, SQL
 	Software & tools: MATLAB, Visual Studio, Vivado, GNU Radio, My SQL
 	Wireless & communication knowledge: software defined radio (SDR), digital communication system, body area network, IEEE 802 family, wireless localization, channel modeling
@@ -43,7 +44,7 @@ We acquired the images taken by wireless capsule endoscope (WCE) inside human ga
 	Topic: Fusion of Grayscale Medical Images of Human Brain(BS graduate project), Feb 2013-Jun 2013
 It is very inefficient and inconvenient for doctors to compare the brain CT or MRI images take for patients and that for normal people. To solve this problem, we developed an application to fuse medical images automatically, with high accuracy and low time consumption. To accelerate the speed of our application, we segmented medical images into grid and did registration parallelly.
 
-#PUBLICATIONS
+###PUBLICATIONS
 	Mingda Zhou, Guanqun Bao, and Kaveh Pahlavan, "Measurement of Motion Detection of Wireless Capsule Endoscope Inside Large Intestine", EMBC'14, Chicago, USA, August 26-30, 2014.
 	Mingda Zhou, Guanqun Bao, Yishuang Geng, et al, “Polyp Detection and Radius Measurement in Small Intestine Using Video Capsule Endoscopy,” BMEI’14 , Dalian, China, October 14-16, 2014
 	Guanqun Bao, Liang Mi, Yishuang Geng, Mingda Zhou and Kaveh Pahlavan, "A Video-based Speed Estimation Technique for Localizing the Wireless Capsule Endoscope inside Gastrointestinal Tract," EMBC'14, Chicago, USA, August 26-30, 2014.
@@ -55,7 +56,7 @@ It is very inefficient and inconvenient for doctors to compare the brain CT or M
 	Zhe Feng, Xing Li, Eugene Liu, Mingda Zhou, Xin Cai and Xinming Huang, “SDR Implementation of the Dual Link Algorithm in TDD Mode using USRP E310”, GRCon 2016, Boulder, USA, September 12-16, 2016
 
 
-#TECHNICAL SERVICES
+###TECHNICAL SERVICES
 	Reviewer: IEEE International Symposium on Circuits and Systems (ISCAS) 2017
 	Reviewer: IEEE International Symposium on Circuits and Systems (ISCAS) 2016
 	Reviewer: IEEE International Symposium on Medical Information and Communication Technology (ISMICT) 2016
