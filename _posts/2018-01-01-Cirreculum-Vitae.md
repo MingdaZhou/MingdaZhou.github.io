@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Cirreculum Vitae
-date:       2018-01-01
 author:     Mingda
 header-img: false
 catalog: false
